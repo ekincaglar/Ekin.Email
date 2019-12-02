@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ekin.Email", "Ekin.Email.Core\Ekin.Email.csproj", "{919A0985-6CCB-47F3-8883-6A5AF4DBCBAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{919A0985-6CCB-47F3-8883-6A5AF4DBCBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{919A0985-6CCB-47F3-8883-6A5AF4DBCBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{919A0985-6CCB-47F3-8883-6A5AF4DBCBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{919A0985-6CCB-47F3-8883-6A5AF4DBCBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F14C006E-5FE6-4FC1-96C8-C534D95E557F}
+	EndGlobalSection
+EndGlobal

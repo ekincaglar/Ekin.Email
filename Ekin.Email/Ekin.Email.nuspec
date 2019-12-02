@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Ekin.Email</id>
+    <version>$version$</version>
+    <title>Ekin.Email</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://ekin.co/email_license</licenseUrl>
+    <projectUrl>http://ekin.co/email</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Library for sending emails via built in .Net SMTP options, Sendgrid, Elastic Email, etc.</description>
+    <releaseNotes>Please visit website for release notes.</releaseNotes>
+    <copyright>Copyright © 2017-2019, Ekin Caglar</copyright>
+    <tags>ekin caglar email sendgrid elasticemail</tags>
+  </metadata>
+</package>
