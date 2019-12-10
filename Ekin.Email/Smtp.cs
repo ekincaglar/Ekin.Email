@@ -43,7 +43,7 @@ namespace Ekin.Email
             }
             catch (Exception ex)
             {
-                Logs.AddError("Smtp", "SendAsync", ex.Message);
+                Logs.AddError("Smtp", "SendAsync", ex);
                 return false;
             }
         }
