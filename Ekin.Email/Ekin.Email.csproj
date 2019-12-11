@@ -6,7 +6,7 @@
     <Description>Library for sending emails via built in .Net SMTP options, Sendgrid, Elastic Email, etc.</Description>
     <Authors>Ekin Caglar</Authors>
     <Company>Ekin Caglar</Company>
-    <Version>2.0.3</Version>
+    <Version>2.1.0</Version>
     <Copyright>Copyright © 2017-2019, Ekin Caglar</Copyright>
     <PackageLicenseUrl>http://ekin.co/email_license</PackageLicenseUrl>
     <PackageProjectUrl>http://ekin.co/email</PackageProjectUrl>

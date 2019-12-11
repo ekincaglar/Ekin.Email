@@ -105,10 +105,10 @@ namespace Ekin.Email
             }
 
             // Add plain text alternative if the body is HTML
-            if (message.IsBodyHtml)
-            {
-                message.AlternateViews.Add(System.Net.Mail.AlternateView.CreateAlternateViewFromString(GetPlainTextFromHtml(), new System.Net.Mime.ContentType("text/plain")));
-            }
+            //if (message.IsBodyHtml)
+            //{
+            //    message.AlternateViews.Add(System.Net.Mail.AlternateView.CreateAlternateViewFromString(GetPlainTextFromHtml(), new System.Net.Mime.ContentType("text/plain")));
+            //}
 
             if (CC != null && !string.IsNullOrEmpty(CC.Email))
                 message.CC.Add(CC.GetMailAddress());
